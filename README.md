@@ -1,2 +1,2 @@
-#falling Boxes
-game with pygame
+#falling_Boxes
+Pygame
